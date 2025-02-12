@@ -7,6 +7,9 @@ Skills: HTML / CSS / JavaScript
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript
 
+![snake gif](https://github.com/IchiroLight/IchiroLight/blob/output/github-snake-dark.svg)
+
+
 
 
 
