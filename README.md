@@ -21,8 +21,15 @@ I uploaded the project on GitHub to be able to see where my abilities are and al
 
 ![snake gif](https://github.com/IchiroLight/IchiroLight/blob/output/github-snake-dark.svg)
 
-#### My Stats
-![Luthfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IchiroLight&show_icons=true&theme=tokyonight)
+#### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IchiroLight&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=IchiroLight&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IchiroLight&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=IchiroLight&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
