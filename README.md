@@ -28,14 +28,16 @@ I uploaded the project on GitHub to be able to see where my abilities are and al
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=IchiroLight&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="400" />
+       <img src="https://nirzak-streak-stats.vercel.app/?user=IchiroLight&theme=tokyonight&hide_border=false" width="400" />
       </td>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=IchiroLight&theme=tokyonight&hide_border=false" width="400" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchiroLight&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="830"/>
+               
+
       </td>
     </tr>
   </table>
