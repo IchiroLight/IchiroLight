@@ -1,10 +1,10 @@
- ### Hello Guys Welcome to my Github👋, My Name is Muhammad Luthfi
+# Hello Guys Welcome to my Github👋, My Name is Muhammad Luthfi
 ![alt text](https://github.com/IchiroLight/IchiroLight/blob/main/banner/banner%20github.png?raw=true)
 
-#### Aspiring Web development | graphic design. Passionate about learning and expanding my skills in web development. Currently diving into HTML, CSS, and JavaScript, with a goal of mastering fullstack development. I share my projects on GitHub to collaborate and help fellow developers. Always eager to explore new technologies! 🚀  
+## Aspiring Web development | graphic design. Passionate about learning and expanding my skills in web development. Currently diving into HTML, CSS, and JavaScript, with a goal of mastering fullstack development. I share my projects on GitHub to collaborate and help fellow developers. Always eager to explore new technologies! 🚀  
 I uploaded the project on GitHub to be able to see where my abilities are and also to help other programmers who are looking for search keys that suit what they want to create.
 
-# 💻 Tech Stack
+### 💻 Tech Stack
 <div align="center">
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -21,7 +21,8 @@ I uploaded the project on GitHub to be able to see where my abilities are and al
 
 ![snake gif](https://github.com/IchiroLight/IchiroLight/blob/output/github-snake-dark.svg)
 
-
+#### My Stats
+[![Luthfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IchiroLight)](https://github.com/IchiroLight/github-readme-stats)
 
 
 
