@@ -22,7 +22,7 @@ I uploaded the project on GitHub to be able to see where my abilities are and al
 ![snake gif](https://github.com/IchiroLight/IchiroLight/blob/output/github-snake-dark.svg)
 
 #### My Stats
-[![Luthfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IchiroLight)](https://github.com/IchiroLight/github-readme-stats&show_icons=true)
+![Luthfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IchiroLight&show_icons=true&theme=radical)
 
 
 
