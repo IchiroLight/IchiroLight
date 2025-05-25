@@ -23,8 +23,11 @@ I uploaded the project on GitHub to be able to see where my abilities are and al
 
 #### 📊 GitHub Stats:
 
-  <img src="https://github-readme-stats.vercel.app/api?username=IchiroLight&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=IchiroLight&theme=tokyonight&hide_border=false" />
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IchiroLight&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="400"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=IchiroLight&theme=tokyonight&hide_border=false" width="400"/>
+</p>
+
 
 
 <p align="center">
