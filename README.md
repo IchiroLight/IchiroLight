@@ -35,7 +35,7 @@ I uploaded the project on GitHub to be able to see where my abilities are and al
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=IchiroLight&theme=tokyonight&hide_border=false" width="600" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=IchiroLight&theme=tokyonight&hide_border=false" width="500" />
       </td>
     </tr>
   </table>
