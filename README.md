@@ -30,7 +30,7 @@ I uploaded the project on GitHub to be able to see where my abilities are and al
         <img src="https://github-readme-stats.vercel.app/api?username=IchiroLight&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="400" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchiroLight&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" />
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FruHafizd&layout=compact&theme=monokai&count_private=true&hide_border=true&hide_title=true&bg_color=0D1117"/>
       </td>
     </tr>
     <tr>
