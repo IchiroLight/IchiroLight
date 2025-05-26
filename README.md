@@ -22,7 +22,7 @@ I uploaded the project on GitHub to be able to see where my abilities are and al
 ![snake gif](https://github.com/IchiroLight/IchiroLight/blob/output/github-snake-dark.svg)
 
 ### 📊 GitHub Stats:
-
+<div>
 <p align="center">
   <table>
     <tr>
@@ -40,6 +40,8 @@ I uploaded the project on GitHub to be able to see where my abilities are and al
     </tr>
   </table>
 </p>
+</div>
+
 
 
 
