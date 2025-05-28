@@ -17,9 +17,6 @@ I uploaded the project on GitHub to be able to see where my abilities are and al
 </div>
 
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript
-
 ![snake gif](https://github.com/IchiroLight/IchiroLight/blob/output/github-snake-dark.svg)
 
 # 📊 GitHub Stats:
