@@ -17,7 +17,7 @@ I uploaded the project on GitHub to be able to see where my abilities are and al
 </div>
 
 
-![snake gif](https://github.com/IchiroLight/IchiroLight/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/IchiroLight/IchiroLight/blob/main/grid-snake.svg)
 
 # 📊 GitHub Stats:
 <p align="center">
